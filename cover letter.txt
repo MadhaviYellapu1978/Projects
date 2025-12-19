@@ -1,0 +1,6 @@
+
+I came across your post regarding the Frontend Developer role, and I am excited to apply for this opportunity. With over 3 years of experience in frontend development, I specialize in React.js, Redux, Tailwind CSS, and TypeScript to build scalable, user-friendly, and responsive applications.
+
+Currently, I am working at Eficens Software Services Pvt. Ltd, Hyderabad, where I have contributed to projects involving real-time monitoring, document management systems, and networking applications. My experience includes developing reusable components, integrating APIs, implementing secure authentication, and optimizing performance.
+
+I am confident that my technical expertise and problem-solving skills will add value to your team. Please find my resume attached for your reference.
